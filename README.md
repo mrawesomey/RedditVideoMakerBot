@@ -4,6 +4,8 @@ All done WITHOUT video editing or asset compiling. Just pure ✨programming magi
 
 Created by Lewis Menelaws & Heavily modified by [Jason Cameron](https://github.com/JasonLovesDoggo)
 
+https://github.com/JasonLovesDoggo/RedditVideoMakerBot/tree/master/examples
+
 ## Motivation 🤔
 
 These videos on TikTok, YouTube and Instagram get MILLIONS of views across all platforms and require very little effort.
